@@ -16,3 +16,4 @@ sudo systemctl enable nginx
 
 
 webpsges is kept  at /var/www/nginx
+happpy learing 
