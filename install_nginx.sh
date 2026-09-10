@@ -3,6 +3,8 @@
 #this is a script to install and enable nginx
 
 echo " ============INSTALLING NGINX ======"=
+=======
+echo " ============INSTALLING NGINX =========="
 
 sudo apt-get update -y 
 
