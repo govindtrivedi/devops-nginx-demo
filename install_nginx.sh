@@ -15,3 +15,7 @@ sudo  systemctl enable nginx
 
 
 echo "NGINX Installed"
+
+
+
+done
